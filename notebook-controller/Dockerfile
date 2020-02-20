@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/notebook-controller@sha256:6490f737000bd1d2520ac4b8cbde2b09749cdb291b1967ddda95d05131db49db
