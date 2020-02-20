@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/kfam@sha256:3b0d4be7e59a3fa5ed1d80dccc832312caa94f3b2d36682524d3afc4e45164f0
