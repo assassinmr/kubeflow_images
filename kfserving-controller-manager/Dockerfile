@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/kfserving-controller:0.2.2
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
