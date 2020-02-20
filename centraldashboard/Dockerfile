@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-images-public/centraldashboard@sha256:4299297b8390599854aa8f77e9eb717db684b32ca9a94a0ab0e73f3f73e5d8b5
